@@ -1,0 +1,26 @@
+{
+ 'name' : 'Robert Patric',
+ 'job' :  'Salary',
+ 'area' : 'Human Resource',
+ 'evaluators' :
+ [
+	{
+		'name' : 'Jonh Legend',
+		'Position' : 'manager', 
+		'email' : 'jlegendc@example.com'
+	}
+	,
+	{
+		'name' : 'Mary Poppins',
+		'Position' : 'supervisor',
+		'email' : 'mpoppins@example.com'
+ 	}
+	,
+	{
+		'name' : 'Paul McCartney',
+		'Position' : 'par', 
+		'email' : 'pmccartney@example.com'
+	}
+ ]
+
+}
